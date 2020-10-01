@@ -24,7 +24,7 @@ if ($upd) {
 
 
 
-<!DOCTYPE html>
+<!DOCTYPE >
 <html lang="en">
 <head>
 
